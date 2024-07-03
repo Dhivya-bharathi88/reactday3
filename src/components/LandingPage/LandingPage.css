@@ -1,0 +1,10 @@
+/* src/components/LandingPage/LandingPage.css */
+.landing-page {
+    text-align: center;
+    padding: 20px;
+}
+
+.college-image {
+    width: 100%;
+    height: auto;
+}
